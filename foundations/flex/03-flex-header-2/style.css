@@ -47,7 +47,6 @@ a {
   /* this removes the line under our links */
   text-decoration: none;
   color: rebeccapurple;
-  margin: 0 16px;
 }
 
 ul {
@@ -55,5 +54,6 @@ ul {
   display: flex;
   flex-direction: row;
   padding: 0px;
+  gap: 16px;
   flex-grow: 1;
 }
